@@ -1,0 +1,1 @@
+This is the project repository for my Gambling Tracker application
